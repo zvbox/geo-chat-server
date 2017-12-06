@@ -9,5 +9,8 @@
     },
     "author": "zvbox",
 	"private": true,
-	"main": "index.js"
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	}
 }
