@@ -1,0 +1,13 @@
+{
+    "name": "Assignment 1",
+    "version": "1.0.0",
+    "description": "REST API - Users",
+    "dependencies": {
+        "restify": "4.1.1",
+		"save": "2.3.0"
+
+    },
+    "author": "your name",
+	"private": true,
+	"main": "index.js"
+}
