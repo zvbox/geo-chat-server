@@ -1,13 +1,13 @@
 {
-    "name": "Assignment 1",
+    "name": "lab04",
     "version": "1.0.0",
-    "description": "REST API - Users",
+    "description": "Patients API",
     "dependencies": {
         "restify": "4.1.1",
 		"save": "2.3.0"
 
     },
-    "author": "your name",
+    "author": "zvbox",
 	"private": true,
 	"main": "index.js"
 }
